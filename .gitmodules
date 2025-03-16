@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/maurogonzalezdev/branches-review-1.git
+[submodule "api"]
+	path = api
+	url = https://github.com/maurogonzalezdev/tags-final-1.git
